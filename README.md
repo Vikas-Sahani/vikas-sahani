@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 
-Here you'll find a small sample of the projects I've hacked on. From few last years most of the time I try to keep the notes in notion so here I am attaching the link that notion notes [Here](https://www.notion.so/Web-Development-DSA-10ef9871be3c446d8277de7acca21f10).
+Welcome to my GitHub profile! Here, you'll find a curated selection of projects I've worked on. Over the past few years, I've documented many of my endeavors on Notion. I have attached a link to my Notion notes for your reference [Here](https://www.notion.so/Web-Development-DSA-10ef9871be3c446d8277de7acca21f10).
 
 ### 🌱 I'm Currently learning
 
