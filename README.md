@@ -34,3 +34,5 @@ Currently I'm mixing and matching up new things in frontend & backend with the h
 ![ExpressJS](https://img.shields.io/badge/ExpressJS-100000?style=for-the-badge&logo=express&logoColor=black&labelColor=white&color=black)
 ![MongoDb](https://img.shields.io/badge/MongoDB-100000?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=47BC00&color=47A248)
 ![Render](https://img.shields.io/badge/Render.com-100000?style=for-the-badge&logo=render&logoColor=46E3B7&labelColor=black&color=46E3B7)
+![Bootstrap](https://img.shields.io/badge/bootstrap-100000?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=indigo&color=darkblue)
+![SCSS](https://img.shields.io/badge/SCSS-100000?style=for-the-badge&logo=sass&logoColor=neon&labelColor=black&color=hotpink)
